@@ -48,8 +48,8 @@ export default function ContactMe() {
     }
 
     return (
-        <Col className='contactForm' lg={3}>
-            <Form onSubmit={processSubmit} onChange={processChange} className='contactForm'>
+        <Col className="contactForm" lg={12}>
+            <Form onSubmit={processSubmit} onChange={processChange} className="contactForm">
                 <Form.Group className="mb-4 ">
                     <Form.Label className='conHeaders'>Name</Form.Label>
                     {error && formData.name.trim() === '' ? 

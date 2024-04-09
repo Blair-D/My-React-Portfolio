@@ -42,11 +42,11 @@ function ProjectPortfolio() {
       live: 'https://blair-d.github.io/Unique-Password-Generator/'
     },
     {
-      name: '',
-      description: '',
-      gitHub: "",
-      title: "Project Coming Soon",
-      live: ''
+      name: 'Ink & Insights',
+      description: 'Book Club',
+      gitHub: "https://github.com/David0864/Ink-Insights-",
+      title: "Ink & Insights",
+      live: 'https://ink-and-insights.onrender.com/'
     },
 
   ]);

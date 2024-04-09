@@ -7,7 +7,7 @@ export default function myResume() {
     return (
         <div className="card">
             <h1>
-                Click <a className="resumeLink" href={resume} download={resumeFileName}>Here</a> From my Resume.
+                To download my resume, please click <a className="resumeLink" href={resume} download={resumeFileName}>HERE</a>.
             </h1>
         </div>
     );

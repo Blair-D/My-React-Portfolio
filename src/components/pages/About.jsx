@@ -12,10 +12,12 @@ function AboutMe() {
   return (
     <Container>
       <Row className="aboutMePic  justify-content-center">
+        <div>
+          <h1 className="text-4xl font-bold ">Blair Dowling</h1>
+        </div>
         <Col className="headShot">
           <Image src={headShot} id="headShot" />
         </Col>
-
         <Col className="aboutMeBio">
           <p id="aboutMe">
           As a full stack developer, with general managerial experience, I bring a fresh outlook when diving into this industury. I am passionate about bringing ideas and possibilities from thoughts to reality, through promblem solving and a zest for creativity.

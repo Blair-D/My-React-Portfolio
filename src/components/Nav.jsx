@@ -8,9 +8,6 @@ const PortfolioNav = () => {
     return (
         <header>
          <div>
-          <div>
-            {/* <h1 className="text-4xl font-bold ">Blair Dowling</h1> */}
-          </div>
           <div className='nav navTab fixed-top justify-item-end'> 
             <Nav className=" " defaultActiveKey="/home">
                 <Nav.Item className='navItem'>
