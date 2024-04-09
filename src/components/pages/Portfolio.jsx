@@ -11,7 +11,7 @@ function ProjectPortfolio() {
       description: 'Personal Weather App',
       title: 'My Weather Forecaster',
       gitHub: 'https://github.com/Blair-D/My-Weather-Forecaster',
-      live: 'https://github.com/Blair-D/My-Weather-Forecaster/deployments'
+      live: 'https://blair-d.github.io/My-Weather-Forecaster/'
     },
     {
       name: 'My Personal Note Taker',
